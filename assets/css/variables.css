@@ -1,0 +1,9 @@
+/* criação de variáveis globais com --sua_variavel */
+/* para usá-las, chame-as pela função var(--sua_variavel). Ex.: body{ color: var(--primary-color); } */
+:root {
+    --primary-color: #0A1128;
+    --white-color: #FFFFFF;
+    --light-gray-color: #EEEEEE;
+    --secondary-color: crimson;
+    --gap: 3rem;
+}
